@@ -1,0 +1,23 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "Simple testing with mocha and chai",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnahm5/TestingExample.git"
+  },
+  "author": "Md Nadim Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnahm5/TestingExample/issues"
+  },
+  "homepage": "https://github.com/mnahm5/TestingExample#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
